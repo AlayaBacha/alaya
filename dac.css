@@ -178,11 +178,34 @@ p{
 }
 .qq{
     float: left;
-    width: 10%;
+    width: 22%;
     font-size: 1.625em;
     margin-left: 412px;
     padding-right: 1em;
 }
-
+.brands__logo {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 0;
+    list-style: none;
+    width: 67%;
+}
+.jameda{font-size: 1rem;
+    display: inline-block;
+    margin-top: 0;
+    padding: 5px 0 5px 5px;
+}
+.tuotemp{
+    display: inline-block;
+    padding: 5px 0;
+}    
+.pasha{
+    
+    display: flex;
+    padding: 47px;
+    
+}
     
     
